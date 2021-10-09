@@ -1,0 +1,31 @@
+#logo {
+    width: 30%;
+    line-height: 100px;
+}
+
+#site-logo{
+    float: left;
+}
+
+#background {
+    height: 60vh;
+    background-image: url("background.png");
+    width: 100%;
+    background-size: cover;
+    background-position: center center;
+}
+
+#site-logo {
+    border-radius: 10px;
+    width: 100px;
+    
+}
+
+#button {
+    float: right;
+}
+
+
+.sidebar-left {float:left; width:25%; background:cyan;}
+.sidebar-right {float:right; width:25%; background:lime;}
+.main {width:50%; background:tomato; margin:0 auto;}
